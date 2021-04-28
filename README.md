@@ -1,4 +1,5 @@
 # 🎯 Target Game
+![target_game](https://user-images.githubusercontent.com/69155242/116434890-cb4efc00-a885-11eb-8e64-547ab13f93eb.gif)
 
 
 ### Features
