@@ -10,7 +10,7 @@ Users are able to
 - Critical rendering path
 - Construction Part: DOM - CSSOM - RenderTree
 - Operation Part: Layout - Paint - Composition
-- To improve performance, instead of `left` property in CSS 👇🏻
+- To improve performance, use `transform` instead of `left` property in CSS 👇🏻
 ``` 
 $vertical.style.transform = `translateX(${x}px)`;
 ```
