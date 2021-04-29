@@ -13,7 +13,7 @@ Users are able to
 - Operation Part: Layout - Paint - Composition
 - To improve performance, use `transform` instead of `top` or`left` property 👇🏻
 ``` 
-$tag.style.transform = `translate(${x}px, ${y}px)
+$tag.style.transform = `translate(${x}px, ${y}px)`;
 ```
 
 - Check more [CSS Triggers](https://csstriggers.com/)
