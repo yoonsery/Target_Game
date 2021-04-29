@@ -7,7 +7,7 @@ Users are able to
 - see the coordinates of the mouse pointer
 
 ### What I Learn
-- getBoundingclinentRect()
+- getBoundingclientRect()
 - Critical rendering path
 - Construction Part: DOM - CSSOM - RenderTree
 - Operation Part: Layout - Paint - Composition
